@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAFAFA;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #595963;
+    margin-top: 4px;
+
+}
+
+h3{
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+
+.headercontainer{
+    text-align: center;
+    display: block;
+    padding-top: 32px;
+}
+
+.headerlight{
+    font-size: 32px;
+    font-weight: 100;
+    margin: 0px;
+    color: #595963;
+}
+
+.headerbold{
+    font-size: 32px;
+    font-weight: 600;
+    padding: 0px;
+    margin: 0px;
+    color: #595963;
+}
+
+.lightp{
+    font-size: 14px;
+    font-weight: 400;
+    color: #ACABB0;
+}
+
+.cards{
+    margin-top: 54px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cardstyle{
+  
+    text-align: left;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 450px;
+    height: 250px;
+    box-shadow:0px 20px 50px rgba(59, 59, 59, 0.349); 
+    margin: 16px;
+    
+    
+}
+
+.cardcontent{
+    padding: 20px 40px;
+}
+
+
+
+.icon{
+    filter: invert(78%) sepia(9%) saturate(104%) hue-rotate(211deg) brightness(88%) contrast(87%);
+    height: 54px;
+    margin-top: 32px;
+    padding: 16px;
+    float: right;
+}
+
+.attribution{
+    margin-top: 54px;
+}
+
+.greenbar{
+    border-top: 4px solid #42D3D2;
+    margin: 0;
+    
+}
+
+.redbar{
+    border-top: 4px solid #EA5453;
+    margin: 0;
+    
+.yellowbar{
+    border-top: 4px solid #FAAE4B;
+    margin: 0;
+    
+}
+
+.bluebar{
+    border-top: 4px solid #42D3D2;
+    margin: 0;
+    
+}
